@@ -1,7 +1,7 @@
 # IoT Reading List (IoT research papers from 2016 to 2018):
 This page includes IoT-related papers that we have recently read and find them interesting. If you have any suggestions, please contact us.
 
-[Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](xxw170@psu.edu).
+[Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](mailto:xxw170@psu.edu).
 
 #### First Depth Study on IoT Security (SmartThings), Motivating the following IoT research
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
