@@ -1,12 +1,14 @@
-# IoT Reading List (Research papers from 2016 to 2018):
-This page includes IoT-related papers that we have recently read and find them interesting. If you have any suggestion, please send us an email.
+# IoT Reading List (IoT research papers from 2016 to 2018):
+This page includes IoT-related papers that we have recently read and find them interesting. If you have any suggestions, please contact us.
+
+[Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](xxw170@psu.edu).
 
 #### First Depth Study on IoT Security (SmartThings), Motivating the following IoT research
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 
 #### Information Flow Control and Detection 
 - 2016, USENIX Security, [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf)
-▪ 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
+- 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
 
 #### Access Control 
 - 2017, NDSS, [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](http://web.eecs.umich.edu/~jackjia/material/contexiot_ndss17.pdf) 
@@ -58,5 +60,3 @@ This page includes IoT-related papers that we have recently read and find them i
 - 2017, IEEE S&P Magazine, [Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges](https://arxiv.org/pdf/1705.08522.pdf)
 - 2018, BlackHat, [IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies](https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf)
 - 2018, arXiv, [A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications](https://arxiv.org/pdf/1802.02041.pdf)
-
-Prepared by Z.Berkay Celik and Xiaolei Wang.
