@@ -3,7 +3,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 [Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](mailto:xxw170@psu.edu).
 
-#### First Depth Study on IoT Security (SmartThings), Motivating the following IoT research
+#### First Depth Study on IoT Security (focusing on SmartThings, and motivating the following IoT research)
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 
 #### Sensitive Information Flow Tracking
@@ -19,7 +19,6 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 #### Safety and Security Violation Detection 
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
-<!--- Cross-App Interference Threats in Smart Homes Categorization Detection and Handling, 2018 -->
 
 #### Vulnerability Mining 
 - 2018, NDSS, [IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
@@ -29,7 +28,6 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 #### Fault Detection and Evaluation 
 - 2018, DSN, [Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction](https://ieeexplore.ieee.org/document/8416520/)
-<!--- 2017, Fault Injection in the Internet of Things Applications -->
 
 #### Privacy Inference via Sensors and Defenses
 - 2018, arXiv, [Peek-a-Boo: I see your smart home activities even encrypted](https://arxiv.org/pdf/1808.02741)
@@ -50,7 +48,6 @@ This page includes IoT papers for security and privacy that we have recently rea
 - 2017, arXIv, [IFTTT vs. Zapier A Comparative Study of Trigger-Action Programming Frameworks](https://arxiv.org/pdf/1808.02741) 
 - 2017, IMC, [An Empirical Characterization of IFTTT Ecosystem, Usage, and Performance](https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf)
 - 2018, NDDS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
-<!--- 2018 Poster: Attack Surface Modelling in Trigger Action Platforms -->
 
 #### IoT Surveys  
 - 2018, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
