@@ -1,4 +1,4 @@
-# IoT Reading List (IoT research papers from 2016 to 2018):
+# IoT Reading List (IoT research papers from 2016 to 2019):
 This page includes IoT papers for security and privacy that we have recently read and find interesting. If you have any suggestions, please contact us.
 
 [Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](mailto:xxw170@psu.edu).
@@ -15,7 +15,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 - 2017, USENIX Security, [SmartAuth: User-Centered Authorization for the Internet of Things](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf)
 - 2017, Access Control Models, [FACT: Functionality-centric Access Control System for IoT Programming Frameworks](http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf)
 - 2018, USENIX Security, [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf)
-- 2018, arXiv [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609)
+- 2018, arXiv, [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609)
 
 #### Safety and Security Violation Detection 
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
@@ -50,7 +50,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 - 2018, NDDS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
 
 #### IoT Surveys  
-- 2018, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
+- 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
 - 2018, arXIv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
 - 2017, arXIv, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023.pdf)
 - 2017, arXIv, [Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be](https://arxiv.org/pdf/1703.09809.pdf)
