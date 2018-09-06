@@ -25,6 +25,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 #### Forensics 
 - 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
+- 2018, arXiv, [IoTDots: A Digital Forensics Framework for Smart Environments](https://arxiv.org/pdf/1809.00745.pdf)
 
 #### Fault Detection and Evaluation 
 - 2018, DSN, [Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction](https://ieeexplore.ieee.org/document/8416520/)
