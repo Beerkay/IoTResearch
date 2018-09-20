@@ -50,7 +50,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 - 2018, NDDS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
 
 #### IoT Surveys  
-- 2019. arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
+- 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
 - 2018, arXiv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
 - 2017, arXiv, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023.pdf)
