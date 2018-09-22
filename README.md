@@ -19,6 +19,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 #### Safety and Security Violation Detection 
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
+- 2018, CoNEXT [IoTSAN: Fortifying the Safety of IoT Systems](will be available soon)
 
 #### Vulnerability Mining 
 - 2018, NDSS, [IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
@@ -32,9 +33,9 @@ This page includes IoT papers for security and privacy that we have recently rea
 #### Privacy Inference via Sensors and Defenses
 - 2018, arXiv, [Peek-a-Boo: I see your smart home activities even encrypted](https://arxiv.org/pdf/1808.02741)
 - 2018, arXiv, [Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers](https://arxiv.org/pdf/1705.06809.pdf)
+- 2018, arXiv, [A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation](https://arxiv.org/pdf/1808.07432.pdf)
 - 2017, arXiv, [Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic](https://arxiv.org/pdf/1708.05044.pdf) 
 - 2017, arXiv, [Detecting Spies in IoT Systems using Cyber-Physical Correlation](https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf) 
-- 2018, arXiv, [A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation](https://arxiv.org/pdf/1808.07432.pdf)
 
 #### Attacks against Voice Control 
 - 2018, arXiv, [Understanding and Mitigating the Security Risks of Voice-Controlled Third-Party Skills on Amazon Alexa and Google Home](https://arxiv.org/pdf/1805.01525.pdf)
