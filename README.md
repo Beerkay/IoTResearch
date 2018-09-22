@@ -19,7 +19,7 @@ This page includes IoT papers for security and privacy that we have recently rea
 
 #### Safety and Security Violation Detection 
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
-- 2018, CoNEXT [IoTSAN: Fortifying the Safety of IoT Systems](will be available soon)
+- 2018, CoNEXT, [IoTSAN: Fortifying the Safety of IoT Systems](https://github.com/Beerkay/IoTResearch/), will be available soon.
 
 #### Vulnerability Mining 
 - 2018, NDSS, [IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
