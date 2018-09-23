@@ -1,5 +1,6 @@
 # IoT Reading List (IoT research papers from 2016 to 2019):
-This page includes IoT papers for security and privacy that we have recently read and find interesting. If you have any suggestions, please contact us.
+This page includes a collection of papers we recommend reading for those interested in studying Internet of Things security and privacy 
+If you have any suggestions, please send a pull request.
 
 [Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](mailto:xxw170@psu.edu).
 
