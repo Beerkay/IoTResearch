@@ -55,6 +55,9 @@ If you have any suggestions, please send a pull request.
 - 2017, IMC, [An Empirical Characterization of IFTTT Ecosystem, Usage, and Performance](https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf)
 - 2018, NDDS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
 
+#### IoT Test suite
+- 2018, [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/IoTBench-test-suite)
+
 #### IoT Surveys  
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
@@ -64,6 +67,7 @@ If you have any suggestions, please send a pull request.
 - 2017, IEEE S&P Magazine, [Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges](https://arxiv.org/pdf/1705.08522.pdf)
 - 2018, BlackHat, [IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies](https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf)
 - 2018, arXiv, [A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications](https://arxiv.org/pdf/1802.02041.pdf)
+
 
 ###### Notes:
 ###### (*) will be read (suggested by [Dr.Hongxin Hu](https://people.cs.clemson.edu/~hongxih/))
