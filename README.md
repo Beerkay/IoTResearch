@@ -24,7 +24,7 @@ If you have any suggestions, please send a pull request.
 - 2018, CCCS, [On the Safety of IoT Device Physical Interaction Control](https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf)
 
 #### Vulnerability Mining 
-- 2018, NDSS, [IOTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
+- 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
 
 #### Forensics 
 - 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
