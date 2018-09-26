@@ -21,7 +21,7 @@ If you have any suggestions, please send a pull request.
 #### Safety and Security Violation Detection 
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
 - 2018, CoNEXT, [IoTSAN: Fortifying the Safety of IoT Systems](https://github.com/Beerkay/IoTResearch/), will be available soon.
-- 2018, CCCS, [On the Safety of IoT Device Physical Interaction Control](https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf)
+- 2018, CCS, [On the Safety of IoT Device Physical Interaction Control](https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf)
 
 #### Vulnerability Mining 
 - 2018, NDSS, [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf)
