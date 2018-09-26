@@ -30,7 +30,7 @@ If you have any suggestions, please send a pull request.
 - 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
 
 #### IoT Malware
--2019, IEE S&P, [Understanding Linux Malware](https://rud.is/dl/ieee-sp-2018/435301a870.pdf) *
+- 2018, IEE S&P, [Understanding Linux Malware](https://rud.is/dl/ieee-sp-2018/435301a870.pdf) *
 
 #### Fault Detection and Evaluation 
 - 2018, DSN, [Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction](https://ieeexplore.ieee.org/document/8416520/)
