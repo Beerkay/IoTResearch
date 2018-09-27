@@ -53,7 +53,7 @@ If you have any suggestions, please send a pull request.
 - 2017, WWW, [Some Recipes Can Do More Than Spoil Your Appetite Analyzing the Security and Privacy Risks of IFTTT Recipes](http://www.andrew.cmu.edu/user/liminjia/research/papers/ifttt-info-flows-www2017.pdf)
 - 2017, arXiv, [IFTTT vs. Zapier A Comparative Study of Trigger-Action Programming Frameworks](https://arxiv.org/pdf/1808.02741) 
 - 2017, IMC, [An Empirical Characterization of IFTTT Ecosystem, Usage, and Performance](https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf)
-- 2018, NDDS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
+- 2018, NDSS, [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf) 
 
 #### IoT Test Suite
 - 2018, [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/IoTBench-test-suite)
