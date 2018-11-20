@@ -70,4 +70,4 @@ If you have any suggestions, please send a pull request.
 
 
 ###### Notes:
-###### (*) will be read (suggested by [Dr.Hongxin Hu](https://people.cs.clemson.edu/~hongxih/))
+###### (*) will be read (suggested by [Dr.Hongxin Hu](https://people.cs.clemson.edu/~hongxih/)
