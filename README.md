@@ -12,7 +12,7 @@ If you have any suggestions, please send a pull request.
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
 
 #### Access Control 
-- 2017, NDSS, [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](http://web.eecs.umich.edu/~jackjia/material/contexiot_ndss17.pdf) 
+- 2017, NDSS, [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](https://amir.rahmati.com/dl/ndss17/ContexIoT_NDSS17.pdf) 
 - 2017, USENIX Security, [SmartAuth: User-Centered Authorization for the Internet of Things](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf)
 - 2017, Access Control Models, [FACT: Functionality-centric Access Control System for IoT Programming Frameworks](http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf)
 - 2018, USENIX Security, [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf)
