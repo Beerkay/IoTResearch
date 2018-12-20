@@ -19,6 +19,7 @@ If you have any suggestions, please send a pull request.
 - 2018, IEEE SecDev, [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609)
 
 #### Safety and Security Violation Detection 
+- 2019, NDSS, [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://github.com/Beerkay/IoTResearch)(will be available soon)
 - 2018, USENIX ATC, [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
 - 2018, CoNEXT, [IoTSAN: Fortifying the Safety of IoT Systems](https://arxiv.org/pdf/1810.09551.pdf)
 - 2018, CCS, [On the Safety of IoT Device Physical Interaction Control](https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf)
