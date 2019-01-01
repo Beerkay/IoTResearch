@@ -49,7 +49,7 @@ If you have any suggestions, please send a pull request.
 - 2018, arXiv, [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/pdf/1801.08535.pdf)
 - 2018, arXiv, [Nonsense Attacks on Google Assistant](https://arxiv.org/pdf/1808.01947.pdf)
 
-#### IFTTT Platform Measurement, and Security Analysis
+#### Trigger-action Platform Measurement, and Security Analysis
 - 2016, CHI, [Trigger-Action Programming in the Wild: An Analysis of 200,000 IFTTT Recipes](https://par.nsf.gov/servlets/purl/10026427)
 - 2017, WWW, [Some Recipes Can Do More Than Spoil Your Appetite Analyzing the Security and Privacy Risks of IFTTT Recipes](http://www.andrew.cmu.edu/user/liminjia/research/papers/ifttt-info-flows-www2017.pdf)
 - 2017, arXiv, [IFTTT vs. Zapier A Comparative Study of Trigger-Action Programming Frameworks](https://arxiv.org/pdf/1808.02741) 
