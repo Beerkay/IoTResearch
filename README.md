@@ -29,6 +29,7 @@ If you have any suggestions, please send a pull request.
 
 #### Forensics 
 - 2018, NDSS, [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
+- 2018, arXiv, [IoTDots: A Digital Forensics Framework for Smart Environments](https://arxiv.org/pdf/1809.00745.pdf)
 
 #### IoT Malware
 - 2018, IEEE S&P, [Understanding Linux Malware](https://rud.is/dl/ieee-sp-2018/435301a870.pdf) *
